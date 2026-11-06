@@ -1,0 +1,14 @@
+{
+  "title": "GuideHollow",
+  "slug": "data-sample",
+  "section": "표에서 재현 가능한 표본 뽑기",
+  "hero": "표에서 재현 가능한 표본 뽑기",
+  "description": "시드 기반 비복원 추출입니다. 결과는 원본 행 순서이며 같은 입력·크기·시드로 재현됩니다. 통계적 대표성·암호학적 무작위는 보장하지 않습니다.",
+  "pageTitle": "표에서 재현 가능한 표본 뽑기 | GuideHollow",
+  "url": "https://data-sample.guidehollow.com/",
+  "accent": "#17684f",
+  "launchReady": true,
+  "adsReady": false,
+  "coupangEnabled": true,
+  "utilityEnabled": true
+}
